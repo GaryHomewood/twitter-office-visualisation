@@ -1,5 +1,5 @@
 # Twitter Office Visualisation
-----
+==============================
 
 A 3D rotatable schematic of an office, which animates when a twitter user from a predefined list tweets.  
 
