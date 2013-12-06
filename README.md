@@ -16,6 +16,7 @@ conf.properties
 
 	# api keys for twitter
 	twitter4j.OAuthConsumerKey = <your consumer key>
-	twitter4j.OAuthConsumerSecret = <your cosumer secret> 	twitter4j.OAuthAccessToken = <your access token>
+	twitter4j.OAuthConsumerSecret = <your cosumer secret> 	
+	twitter4j.OAuthAccessToken = <your access token>
 	twitter4j.OAuthAccessTokenSecret = <your access secret>
 	
